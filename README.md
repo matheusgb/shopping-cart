@@ -1,7 +1,7 @@
 ![Shopping cart](sc.gif)
 
 # Shopping cart
-Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando a API do Mercado Livre, HTML, CSS, Javascript e Jest no módulo de fundamentos. Entregue com 100% dos requisitos.
+Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando a API do Mercado Livre, HTML, CSS, Javascript e Jest no módulo de fundamentos. Entregue com 100% dos requisitos respeitando ESLint e Stylelint.
 
 ## Direitos autorais
 
